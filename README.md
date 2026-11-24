@@ -2,6 +2,8 @@
 
 验证环境：Windows；T3 Code 0.1.11；DeepSeek Harness 桌面端（acp profile）；Trae CN 3.4.22；our free model 插件 2.9.0；验证日期 2026-11-24。
 
+配套排障手册：[Windows 上接 DSH / T3 / Trae 的排障手册](docs/troubleshooting.md)
+
 ## 这篇教程能帮你做到什么
 
 T3 Code 是一个开源的编程控制台：电脑上跑服务，手机 App 当遥控器，随时随地指挥电脑上的 AI 干活。但 T3 自己没有模型，烧的是它接的那个 agent 的额度。
